@@ -1,17 +1,8 @@
 # Checkout Payment Feature
  Chechout Payment using two getwayes (1- Stripe, 2- PayPal)
 
-A new Flutter project.
+# Running Demo
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<center>
+  <iframe width="560" height="315" src="https://github.com/Ahmed-Nasr-Fahmey/Checkout-Payment-Feature/assets/92389822/b7f41659-704c-40b7-9ec4-e0c62eefc7af" frameborder="0" allowfullscreen></iframe>
+</center>
